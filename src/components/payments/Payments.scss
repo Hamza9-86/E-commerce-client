@@ -1,0 +1,13 @@
+.Payments{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    margin-top: 40px;
+    gap: 20px;
+    flex-direction: column;
+
+    .icon{
+        font-size: 3rem;
+    }
+}
